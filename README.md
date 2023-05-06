@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am a Front-End Developer specializing Shopify theme development. I’m currently working on my portfolio.
+🔭 I am a Front-End Developer specializing Shopify theme development. I am currently working on my portfolio.
 
 <!--
 **natanielpielago/natanielpielago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
